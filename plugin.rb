@@ -1,4 +1,4 @@
-# name: google-calendar
+# name: Google Calendar Onebox
 # version: 0.1
 # authors: Daniel Fernández
 
