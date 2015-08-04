@@ -1,15 +1,13 @@
 # Discourse calendar plugin
 
-This plugin allows to embed a Google Calendar in a post.
+This plugin allows to embed a fruux calendar in a post.
 
 ## Usage
 
-Once installed, you can place a Google Calendar URL like https://www.google.com/calendar/embed?... in a post and this will show an embed Calendar.
+Once installed, you can place a fruux calendar URL like https://fruux.com/calendars/... in a post and this will show an embed calendar.
 
 ![](https://raw.githubusercontent.com/tcreativo/docs-images/master/sprdshot5.png)
 ![](https://raw.githubusercontent.com/tcreativo/docs-images/master/sprdshot6.png)
-
-- How to embed a Google Calendar: https://www.google.com/calendar/embedhelper
 
 ## Installation
 
@@ -34,6 +32,8 @@ git pull
 ```
 
 ## Authors
+- Modified by kamratekid for use with fruux calendar
+
 - Produced by [Territorio creativo S.L.](http://www.territoriocreativo.es/)
 
 - Developed by [Vairix](http://www.vairix.com/)
