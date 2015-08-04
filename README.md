@@ -6,9 +6,6 @@ This plugin allows to embed a fruux calendar in a post.
 
 Once installed, you can place a fruux calendar URL like https://fruux.com/calendars/... in a post and this will show an embed calendar.
 
-![](https://raw.githubusercontent.com/tcreativo/docs-images/master/sprdshot5.png)
-![](https://raw.githubusercontent.com/tcreativo/docs-images/master/sprdshot6.png)
-
 ## Installation
 
 As seen in a [how-to on meta.discourse.org](https://meta.discourse.org/t/advanced-troubleshooting-with-docker/15927#Example:%20Install%20a%20plugin), simply **add the plugin's repo url to your container's app.yml file**:
