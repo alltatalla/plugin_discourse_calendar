@@ -3,7 +3,7 @@
 # authors: kamratekid, Daniel Fernández
 
 # freedom patch fruux calendar Onebox
-class Onebox::Engine::fruuxCalendarOnebox
+class Onebox::Engine::FruuxCalendarOnebox
   include Onebox::Engine
 
   matches_regexp(/^https?:\/\/(?:www\.)?(?:m\.)?(?:fruux\.com\/calendars)\/.+$/)
